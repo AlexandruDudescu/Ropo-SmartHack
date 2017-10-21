@@ -1,0 +1,10 @@
+d:\SmartHack\Ropo-SmartHack\Back-End\bin\Debug\netcoreapp2.0\Back-End.deps.json
+d:\SmartHack\Ropo-SmartHack\Back-End\bin\Debug\netcoreapp2.0\Back-End.runtimeconfig.json
+d:\SmartHack\Ropo-SmartHack\Back-End\bin\Debug\netcoreapp2.0\Back-End.runtimeconfig.dev.json
+d:\SmartHack\Ropo-SmartHack\Back-End\bin\Debug\netcoreapp2.0\Back-End.dll
+d:\SmartHack\Ropo-SmartHack\Back-End\bin\Debug\netcoreapp2.0\Back-End.pdb
+d:\SmartHack\Ropo-SmartHack\Back-End\obj\Debug\netcoreapp2.0\Back-End.csproj.CoreCompileInputs.cache
+d:\SmartHack\Ropo-SmartHack\Back-End\obj\Debug\netcoreapp2.0\Back-End.AssemblyInfoInputs.cache
+d:\SmartHack\Ropo-SmartHack\Back-End\obj\Debug\netcoreapp2.0\Back-End.AssemblyInfo.cs
+d:\SmartHack\Ropo-SmartHack\Back-End\obj\Debug\netcoreapp2.0\Back-End.dll
+d:\SmartHack\Ropo-SmartHack\Back-End\obj\Debug\netcoreapp2.0\Back-End.pdb
